@@ -308,6 +308,7 @@ body.dark-mode #weatherData {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: inherit;
 }
 
 #weatherData.show {
